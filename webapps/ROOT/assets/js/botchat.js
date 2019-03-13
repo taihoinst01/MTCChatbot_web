@@ -7075,10 +7075,7 @@
                 var writeTime = ampm + " " + getHour + ":" + tempMinutes;
                 var timeDiv = "";
                 timeDiv = s.createElement("p", { className: "timeStampBot" }, writeTime);
-                
-                return o.createElement("div", {
-                    className: "wc-message-content"
-                }, n, timeDiv)	//KSO
+
                 return t = n ? s.createElement("div", null, s.createElement("svg", {
                     className: "error-icon",
                     viewBox: "0 0 15 12.01"
