@@ -17,6 +17,7 @@ body{background:url(../image/chatbotStyle/bg01.gif) repeat-x 0 bottom #a5a5a5; m
 .timeStampBot {font-size: 12px; color: #868686;line-height: 15px; text-align: left;padding-top: 3px !important; position:absolute; bottom:0}
 .timeStampUser {font-size: 12px;color: #868686;line-height: 15px;text-align: right;padding-top:3px !important}
 .ac-container{padding:6px !important; border-radius:15px; border:1px solid;}
+.ac-container .ac-container{border:0px solid;}
 .wc-carousel-item{background-color:#f1f3f6}
 .ac-image > img {cursor:pointer}
 
