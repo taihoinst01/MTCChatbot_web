@@ -6729,7 +6729,7 @@
             fontFamily: '"Segoe UI", sans-serif',
             fontSizes: {
                 small: 12,
-                normal: 13,
+                normal: 15,
                 medium: 15,
                 large: 17,
                 extraLarge: 19
