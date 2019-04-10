@@ -6741,7 +6741,7 @@
             },
             colors: {
                 dark: {
-                    normal: "#000000",
+                    normal: "#a0a0a0",
                     subtle: "#808c95"
                 },
                 light: {
